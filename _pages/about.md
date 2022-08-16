@@ -20,7 +20,7 @@ I'm currently a research associate at the University of Texas at Austin, where I
 
 ## Publications
 **Heterogeneity-Aware Hierarchical Management for Federated Learning System**\
-Chunlin Tian*, Li Li*, Zhan Shi*, Jun Wang, ChengZhong Xu\
+Chunlin Tian\*, Li Li\*, Zhan Shi\*, Jun Wang, ChengZhong Xu\
 International Symposium on Microarchitecture (**MICRO**), 2022
 
 **A Hierarchical Neural Model of Data Prefetching**\
@@ -46,7 +46,7 @@ Zhan Shi, Xiangru Huang, Akanksha Jain, Calvin Lin\
 International Symposium on Microarchitecture (**MICRO**), 2019
 
 **Deep Embedding for Determining the Number of clusters**\
-Yiqi Wang*, Zhan Shi*, Xifeng Guo, Xinwang Liu, En Zhu and Jianping Yin \
+Yiqi Wang\*, Zhan Shi\*, Xifeng Guo, Xinwang Liu, En Zhu and Jianping Yin \
 Student Abstract in AAAI Conference on Artificial Intelligence (**AAAI**), 2018
 
 ## Awards and Honors
