@@ -15,7 +15,7 @@ redirect_from:
 *University of Texas at Austin*  
 *GDC 5.418*
 
-I'm currently a research associate at the University of Texas at Austin, where I also completed my Ph.D degree in 2020, advised by Professor Calvin Lin. During my Ph.D., I have interned at Google (Summer 2018 and 2019) and Facebook (Summer 2020). I am interested in the interplay between machine learning and computer systems, with a particular focus on ML for systems. My research develops principled data-driven methods for system optimization problems, such as cache optimizations and automatic accelerator design. Our prefetching solution demonstrates significant improvements on Google’s complex hyperscale workloads. I also serve in the program committees in ML for Systems workshop.
+I'm currently a research associate at the University of Texas at Austin, where I completed my Ph.D degree in 2020 under the supervision of Professor Calvin Lin. I am interested in the interplay between machine learning and computer systems, with a particular focus on ML for systems. My research develops principled data-driven methods for system optimization problems, such as memory optimizations for general-purpose CPUs and design automation / AI-driven EDA for specialized AI accelerators. I also serve in the program committees of ML for Systems workshop and serve as a reviewer for IEEE MICRO. During my Ph.D., I have interned at Google (Summer 2018 and 2019) and Facebook (Summer 2020). 
 
 
 ## Publications
