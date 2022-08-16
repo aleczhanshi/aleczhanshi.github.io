@@ -54,3 +54,5 @@ Student Abstract in AAAI Conference on Artificial Intelligence (**AAAI**), 2018
 - **Provost’s Graduate Excellence Fellowship**, Graduate School, University of Texas at Austin, 2017-2021
 - Funded by **Faculty Research Award**, Google, 2020
 - Funded by **Faculty Research Award**, Google, 2019
+- **China Science and Technology Corporation Fellowship**, 2016
+- **ASC First Class Prize**, ASC Supercomputer Challenge, 2016
