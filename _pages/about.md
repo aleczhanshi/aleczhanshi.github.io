@@ -19,7 +19,7 @@ I'm currently a research associate at the University of Texas at Austin, where I
 
 
 ## Publications
-**Heterogeneity-Aware Hierarchical Management for Federated Learning System**
+**Heterogeneity-Aware Hierarchical Management for Federated Learning System**\
 Chunlin Tian*, Li Li*, Zhan Shi*, Jun Wang, ChengZhong Xu\
 International Symposium on Microarchitecture (**MICRO**), 2022
 
