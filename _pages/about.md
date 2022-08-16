@@ -19,10 +19,22 @@ I'm currently a research associate at the University of Texas at Austin, where I
 
 
 ## Selected Recent Publications
+Heterogeneity-Aware Hierarchical Management for Federated Learning System
+Chunlin Tian, Li Li, Zhan Shi, Jun Wang, ChengZhong Xu\
+International Symposium on Microarchitecture (**MICRO**), 2022
+
 **A Hierarchical Neural Model of Data Prefetching**\
 Zhan Shi, Akanksha Jain, Kevin Swersky, Parthasarathy Ranganathan, Milad Hashemi, Calvin Lin\
 International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2021\
 <span style="color:red"> **IEEE Micro Top Picks Honorable Mention 2022**</span>
+
+**Learned Hardware/Software Co-Design of Neural Accelerators**\
+Zhan Shi, Chirag Sakhuja, Milad Hashemi, Kevin Swersky, Calvin Lin\
+arXiv:2010.02075, 2021
+
+**Machine Learning for Prediction Problems in Computer Architecture**
+Zhan Shi
+Ph.D. Dissertation, 2020
 
 **Learning Execution through Neural Code Fusion**\
 Zhan Shi, Kevin Swersky, Danny Tarlow, Parthasarathy Ranganathan, Milad Hashemi\
