@@ -45,12 +45,12 @@ International Conference on Learning Representations (**ICLR**), 2020
 Zhan Shi, Xiangru Huang, Akanksha Jain, Calvin Lin\
 International Symposium on Microarchitecture (**MICRO**), 2019
 
-**Deep Embedding for Determining the Number of clusters**
+**Deep Embedding for Determining the Number of clusters**\
 Yiqi Wang*, Zhan Shi*, Xifeng Guo, Xinwang Liu, En Zhu and Jianping Yin \
 Student Abstract in AAAI Conference on Artificial Intelligence (**AAAI**), 2018
 
 ## Awards and Honors
 - **Honorable Mention**, IEEE Micro Top Picks, 2022.
-- **Provost Fellowship**, Graduate School, University of Texas at Austin, 2017-2021
+- **Provost’s Graduate Excellence Fellowship**, Graduate School, University of Texas at Austin, 2017-2021
 - Funded by **Faculty Research Award**, Google, 2020
 - Funded by **Faculty Research Award**, Google, 2019
