@@ -30,7 +30,7 @@ International Conference on Architectural Support for Programming Languages and 
 
 **Learned Hardware/Software Co-Design of Neural Accelerators**\
 Zhan Shi, Chirag Sakhuja, Milad Hashemi, Kevin Swersky, Calvin Lin\
-Workshop on ML for Systems at NeurIPS (**MLFS**), 2020 \ 
+Workshop on ML for Systems at NeurIPS (**MLFS**), 2020\ 
 arXiv:2010.02075, 2021
 
 **Machine Learning for Prediction Problems in Computer Architecture**\
