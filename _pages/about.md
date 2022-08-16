@@ -52,3 +52,5 @@ Student Abstract in AAAI Conference on Artificial Intelligence (**AAAI**), 2018
 ## Awards and Honors
 - **Honorable Mention**, IEEE Micro Top Picks, 2022.
 - **Provost Fellowship**, Graduate School, University of Texas at Austin, 2017-2021
+- Funded by **Faculty Research Award**, Google, 2020
+- Funded by **Faculty Research Award**, Google, 2019
