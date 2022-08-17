@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 
-**Research Associate**
+**Research Associate**\
 *Department of Computer Science*  
 *University of Texas at Austin (UT Austin)*  
-*GDC 5.418*
 
 <!-- <span style="color:red"> **I'm joining Huawei Hisilicon as a member of Genius Youth Program (天才少年).**</span> -->
 
