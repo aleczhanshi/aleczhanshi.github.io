@@ -15,7 +15,7 @@ redirect_from:
 
 <!-- <span style="color:red"> **I'm joining Huawei Hisilicon as a member of Genius Youth Program (天才少年).**</span> -->
 
-I'm currently a research associate at the University of Texas at Austin (UT Austin), where I completed my Ph.D degree in 2020 under the supervision of Professor [Calvin Lin](https://www.cs.utexas.edu/~lin/). I am interested in the interplay between machine learning (ML) and computer systems, with a particular focus on **ML for systems**. My research develops principled data-driven methods for system optimization problems, including **learning-based cache optimizations for general-purpose CPUs** and **AI-driven design automation tooling/EDA for specialized AI accelerators**. I serve in the program committees of ML for Systems workshop and serve as a reviewer for IEEE MICRO. During my Ph.D., I have interned at Google (Summer 2018 and 2019) and Facebook (Summer 2020). 
+I'm currently a research associate at the University of Texas at Austin (UT Austin), where I completed my Ph.D degree in 2020 under the supervision of Professor [Calvin Lin](https://www.cs.utexas.edu/~lin/). I am interested in the interplay between machine learning (ML) and computer systems, with a particular focus on **ML for systems**. My research develops principled data-driven methods for system optimization problems, including **learning-based cache optimizations for general-purpose CPUs** and **data-driven design automation tooling/EDA for specialized AI accelerators**. I serve in the program committees of ML for Systems workshop and serve as a reviewer for IEEE MICRO. During my Ph.D., I have interned at Google (Summer 2018 and 2019) and Facebook (Summer 2020). 
 
 
 ## Publications

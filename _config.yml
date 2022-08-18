@@ -87,7 +87,8 @@ author:
   employer         : "University of Texas at Austin"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=w2I-wNQAAAAJ&hl=en"
-  email            : "zshi17@cs.utexas.edu"
+  # email            : "zshi17@cs.utexas.edu"
+  zshi17@cs.utexas.edu: "zshi17@cs.utexas.edu"
   researchgate     :  
   uri              :
   bitbucket        :
