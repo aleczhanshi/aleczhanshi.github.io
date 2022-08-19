@@ -10,8 +10,8 @@ redirect_from:
 
 
 **Research Associate**\
-Department of Computer Science
-University of Texas at Austin (UT Austin) 
+Department of Computer Science\
+University of Texas at Austin (UT Austin)\
 zshi17@cs.utexas.edu
 <!-- <span style="color:red"> **I'm joining Huawei Hisilicon as a member of Genius Youth Program (天才少年).**</span> -->
 
