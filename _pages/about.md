@@ -19,6 +19,10 @@ I'm currently a research associate at the University of Texas at Austin (UT Aust
 
 
 ## Publications
+**Leveraging Domain Information for the Efficient, Automated Design of Deep Learning Accelerators**\
+Chirag Sakhuja\*, Zhan Shi\*, Calvin Lin\
+International Symposium on Microarchitecture (**MICRO**), 2022
+
 **Heterogeneity-Aware Hierarchical Management for Federated Learning System**\
 Chunlin Tian\*, Li Li\*, Zhan Shi\*, Jun Wang, ChengZhong Xu\
 International Symposium on Microarchitecture (**MICRO**), 2022
