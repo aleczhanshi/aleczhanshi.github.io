@@ -19,15 +19,15 @@ I'm currently a research associate at the University of Texas at Austin (UT Aust
 
 
 ## Publications
-**[HPCA]Leveraging Domain Information for the Efficient, Automated Design of Deep Learning Accelerators**\
+**[HPCA] Leveraging Domain Information for the Efficient, Automated Design of Deep Learning Accelerators**\
 Chirag Sakhuja\*, Zhan Shi\*, Calvin Lin\
 International Symposium on High-Performance Computer Architectural (**HPCA**), 2023
 
-**[MICRO]Heterogeneity-Aware Hierarchical Management for Federated Learning System**\
+**[MICRO] Heterogeneity-Aware Hierarchical Management for Federated Learning System**\
 Chunlin Tian\*, Li Li\*, Zhan Shi\*, Jun Wang, ChengZhong Xu\
 International Symposium on Microarchitecture (**MICRO**), 2022
 
-**[ASPLOS]A Hierarchical Neural Model of Data Prefetching**\
+**[ASPLOS] A Hierarchical Neural Model of Data Prefetching**\
 Zhan Shi, Akanksha Jain, Kevin Swersky, Parthasarathy Ranganathan, Milad Hashemi, Calvin Lin\
 International Conference on Architectural Support for Programming Languages and Operating Systems (**ASPLOS**) 2021\
 <span style="color:red"> **IEEE Micro Top Picks Honorable Mention 2022**</span>
@@ -41,15 +41,15 @@ arXiv:2010.02075, 2021
 Zhan Shi\
 Ph.D. Dissertation, 2020
 
-**[ICLR]Learning Execution through Neural Code Fusion**\
+**[ICLR] Learning Execution through Neural Code Fusion**\
 Zhan Shi, Kevin Swersky, Danny Tarlow, Parthasarathy Ranganathan, Milad Hashemi\
 International Conference on Learning Representations (**ICLR**), 2020
 
-**[MICRO]Applying Deep Learning to the Cache Replacement Problem**\
+**[MICRO] Applying Deep Learning to the Cache Replacement Problem**\
 Zhan Shi, Xiangru Huang, Akanksha Jain, Calvin Lin\
 International Symposium on Microarchitecture (**MICRO**), 2019
 
-**[AAAI]Deep Embedding for Determining the Number of clusters**\
+**[AAAI] Deep Embedding for Determining the Number of clusters**\
 Yiqi Wang\*, Zhan Shi\*, Xifeng Guo, Xinwang Liu, En Zhu and Jianping Yin \
 Student Abstract in AAAI Conference on Artificial Intelligence (**AAAI**), 2018
 
